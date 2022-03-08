@@ -1,0 +1,49 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #E8DAEF ;
+    font-size: 25px;
+}
+
+.form{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+button{
+    border: none;
+    background-color: red;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+
+.form input{
+    margin:5px;
+    padding: 5px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#bAdd {
+    border: none;
+    background-color:#AED6F1;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#eventContainer{
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 500px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
